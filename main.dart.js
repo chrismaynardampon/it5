@@ -95792,7 +95792,7 @@ q===$&&A.a()
 q=q.Q
 q===$&&A.a()
 s=2
-return A.u(A.NM(q,B.NY,"http://localhost:5173"),$async$yn)
+return A.u(A.NM(q,B.NY,"https://chrismaynardampon.github.io/it5/"),$async$yn)
 case 2:return A.A(null,r)}})
 return A.B($async$yn,r)},
 K(a){var s=null
